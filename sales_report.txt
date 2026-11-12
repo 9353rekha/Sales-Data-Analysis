@@ -1,0 +1,10 @@
+SALES DATA ANALYSIS REPORT
+==========================
+
+Total Revenue: INR 377000
+Total Units Sold: 33
+Average Revenue: INR 75400.00
+
+Highest Revenue Product: Laptop
+Lowest Revenue Product: Mouse
+Best-Selling Product: Mouse
